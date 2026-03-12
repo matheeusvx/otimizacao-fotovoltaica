@@ -62,4 +62,4 @@ Além disso, o projeto reforça a importância da modelagem matemática e da an�
 - Conceitos de energia solar fotovoltaica
 
 ## Autor
-**Matheus**
+**Matheus Morelli**
