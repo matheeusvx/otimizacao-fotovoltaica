@@ -50,7 +50,7 @@ Além disso, o projeto reforça a importância da modelagem matemática e da an�
 
 ## Como visualizar
 1. Baixe ou clone este repositório.
-2. Abra o arquivo `Sprint_4.ipynb` em:
+2. Abra o arquivo `Notebook` em:
    - **Jupyter Notebook**
    - **JupyterLab**
    - **Google Colab**
